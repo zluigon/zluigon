@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 # Hey, I'm Luis! 👋
 
 I'm a full-stack developer who's all about turning cool ideas into working web applications. My journey from being tech-curious to a full-time developer has been a wild ride.
