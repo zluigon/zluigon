@@ -12,7 +12,7 @@ When I'm not coding, I'm probably lost in the world of video games (MMOs, JRPGs,
 
 ## Currently Learning 📖
 
-Right now, I'm diving deep into React.js to level up my frontend game. It's exciting stuff!
+Right now, I'm diving deep into React.js to level up my frontend skills.
   
   
 
