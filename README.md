@@ -8,7 +8,7 @@ I'm into building everything web-related, from crafting user-friendly frontends 
 
 ## My Interests 🎮📺📚
 
-When I'm not coding, I'm probably lost in the world of video games (MMOs, JRPGs, and roguelites), anime, and manga. I'm also a sucker for horror movies.
+When I'm not coding, I'm probably lost in the world of video games (MMOs, JRPGs, and roguelites), anime, and manga. I'm also a sucker for sci-fi and horror movies.
 
 ## Currently Learning 📖
 
