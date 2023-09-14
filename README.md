@@ -14,7 +14,7 @@ When I'm not coding, I'm probably lost in the world of video games (MMOs, JRPGs,
 
 Right now, I'm diving deep into React.js to level up my frontend skills.
   
-  
+<br />
 
 <div align="center">
 <a href="https://github.com/zluigon" target="_blank">
@@ -71,17 +71,3 @@ Right now, I'm diving deep into React.js to level up my frontend skills.
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
