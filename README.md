@@ -44,7 +44,6 @@ Right now, I'm diving deep into React.js to level up my frontend skills.
 
 <br/>  
 
-
 ## Github Stats 📊 
 <div align="center">
 
