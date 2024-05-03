@@ -8,7 +8,7 @@ I specialize in web development, designing user-friendly frontends and setting u
 
 Currently, I am focusing on learning React.js to enhance my frontend development skills.
   
-<br />
+
 
 <div align="left">
 <a href="https://linkedin.com/in/zluigon" target="_blank">
@@ -16,7 +16,6 @@ Currently, I am focusing on learning React.js to enhance my frontend development
 </a>
 </div>  
 
-<br/>  
 
 ### 🧰 Languages and Tools 
 
