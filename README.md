@@ -21,8 +21,6 @@ Currently, I am focusing on learning React.js to enhance my frontend development
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,flask,c,ts,js,react,svelte,nodejs,html,css,bootstrap,jquery,mysql,git,github,vscode,bash,aws&perline=10" />
 
-<br/>  
-
 ### 📊 Stats
 
 ![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=zluigon&show_icons=true&theme=gruvbox)
