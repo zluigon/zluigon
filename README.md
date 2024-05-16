@@ -1,15 +1,13 @@
 # Hey, I'm Luis! 👋
 
-**`Software Developer`**
+**`Software Developer`** **`USAF Veteran`**
 
-I specialize in web development, designing user-friendly frontends and setting up robust backends. I focus on both form and function, utilizing the latest technology.
+ I have a passion for building and designing software. I have a strong background in full-stack development and a passion for learning new technologies.
 
-## 📖 Always Learning
+### 📖 Learning
 
-Currently, I am focusing on learning React.js to enhance my frontend development skills.
+Currently, I am focusing on learning React.js to enhance my front-end development skills.
   
-
-
 <div align="left">
 <a href="https://linkedin.com/in/zluigon" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
