@@ -16,7 +16,8 @@ Currently, I am focusing on learning React.js to enhance my front-end developmen
 
 ### 📊 Stats
 
-![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=zluigon&show_icons=true&theme=gruvbox)
+
+[![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=zluigon&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
