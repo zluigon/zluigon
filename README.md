@@ -4,7 +4,7 @@
 
 I have a passion for building and designing software. I have a strong background in full-stack development and a passion for learning new technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julieluangpraxay) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zluigon) 
 
 ### 📖 Learning
 
