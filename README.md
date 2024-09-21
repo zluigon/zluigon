@@ -1,6 +1,6 @@
 # Hey, I'm Luis! 👋
 
-**`Software Developer`** **`USAF Veteran`**
+**`Software Engineer`** **`USAF Veteran`**
 
 I have a passion for building and designing software. I have a strong background in full-stack development and a passion for learning new technologies.
 
