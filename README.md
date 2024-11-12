@@ -8,7 +8,7 @@ I have a passion for building and designing software. I have a strong background
   
 ### 🧰 Languages and Tools 
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,flask,c,ts,js,react,svelte,nodejs,html,css,bootstrap,jquery,mysql,git,github,vscode,bash,aws&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,python,flask,c,ts,js,angular,react,svelte,nodejs,express,npm,html,css,bootstrap,jquery,mysql,mongodb,postman,git,github,gitlab,vscode,idea,bash,docker,kubernetes,aws&perline=10" />
 
 ### 📊 Stats
 
